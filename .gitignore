@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom
+.DS_STORE
+api_keys.py
+API_practice.ipynb
+random_numbers.ipynb
+
 # Distribution / packaging
 .Python
 build/
