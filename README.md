@@ -1,5 +1,14 @@
 # Unit 6 Homework: What's the Weather Like?
 
+## Part 1 Observations
+1. As the latitude reaches the equator the max temperature is higher. There is an obvious skew to the right of the figure but this comes from the fact that it is currently summer in the norhern hemisphere so temperatures will be naturally higher than the southern.
+
+2. The highest temperatures are not at the equator but around the 30 degree mark. This could be because of the tilt of the earth towards the sun.
+
+3. Latitude has a very little to almost zero effect on humidty, cloudiness, and wind speed based on the r values.
+
+
+
 ## Background
 
 Whether financial, political, or social&mdash;data's true power rests in its ability to answer questions definitively. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
